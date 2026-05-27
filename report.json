@@ -1,0 +1,44 @@
+[
+    {
+        "ip": "45.88.120.7",
+        "attempts": 8,
+        "severity": "HIGH",
+        "attack_type": "Brute Force"
+    },
+    {
+        "ip": "192.168.1.2",
+        "attempts": 7,
+        "severity": "HIGH",
+        "attack_type": "Brute Force"
+    },
+    {
+        "ip": "66.77.88.99",
+        "attempts": 6,
+        "severity": "HIGH",
+        "attack_type": "Brute Force"
+    },
+    {
+        "ip": "172.16.0.8",
+        "attempts": 4,
+        "severity": "MEDIUM",
+        "attack_type": "Suspicious Activity"
+    },
+    {
+        "ip": "88.12.10.4",
+        "attempts": 4,
+        "severity": "MEDIUM",
+        "attack_type": "Suspicious Activity"
+    },
+    {
+        "ip": "203.45.11.90",
+        "attempts": 3,
+        "severity": "MEDIUM",
+        "attack_type": "Suspicious Activity"
+    },
+    {
+        "ip": "10.0.0.25",
+        "attempts": 2,
+        "severity": "LOW",
+        "attack_type": "Normal"
+    }
+]

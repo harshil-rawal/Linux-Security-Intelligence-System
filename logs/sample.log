@@ -1,0 +1,45 @@
+May 1 09:01 sshd Failed password for root from 192.168.1.2
+May 1 09:02 sshd Failed password for admin from 192.168.1.2
+May 1 09:03 sshd Failed password for root from 192.168.1.2
+May 1 09:04 sshd Failed password for user from 192.168.1.2
+May 1 09:05 sshd Failed password for root from 192.168.1.2
+May 1 09:06 sshd Failed password for admin from 192.168.1.2
+May 1 09:07 sshd Failed password for root from 192.168.1.2
+
+May 1 09:11 sshd Failed password for admin from 172.16.0.8
+May 1 09:12 sshd Failed password for root from 172.16.0.8
+May 1 09:13 sshd Failed password for root from 172.16.0.8
+May 1 09:14 sshd Failed password for user from 172.16.0.8
+
+May 1 09:20 sshd Failed password for root from 10.0.0.25
+May 1 09:21 sshd Failed password for root from 10.0.0.25
+
+May 1 09:25 sshd Failed password for guest from 45.88.120.7
+May 1 09:26 sshd Failed password for guest from 45.88.120.7
+May 1 09:27 sshd Failed password for guest from 45.88.120.7
+May 1 09:28 sshd Failed password for guest from 45.88.120.7
+May 1 09:29 sshd Failed password for guest from 45.88.120.7
+May 1 09:30 sshd Failed password for guest from 45.88.120.7
+May 1 09:31 sshd Failed password for guest from 45.88.120.7
+May 1 09:32 sshd Failed password for guest from 45.88.120.7
+
+May 1 09:35 system ERROR Disk failure detected
+May 1 09:36 kernel WARNING CPU temperature high
+May 1 09:37 kernel WARNING Memory usage exceeded threshold
+May 1 09:38 system ERROR Authentication service unavailable
+
+May 1 09:40 sshd Failed password for test from 203.45.11.90
+May 1 09:41 sshd Failed password for test from 203.45.11.90
+May 1 09:42 sshd Failed password for root from 203.45.11.90
+
+May 1 09:45 sshd Failed password for ubuntu from 88.12.10.4
+May 1 09:46 sshd Failed password for ubuntu from 88.12.10.4
+May 1 09:47 sshd Failed password for ubuntu from 88.12.10.4
+May 1 09:48 sshd Failed password for ubuntu from 88.12.10.4
+
+May 1 09:50 sshd Failed password for root from 66.77.88.99
+May 1 09:51 sshd Failed password for root from 66.77.88.99
+May 1 09:52 sshd Failed password for root from 66.77.88.99
+May 1 09:53 sshd Failed password for root from 66.77.88.99
+May 1 09:54 sshd Failed password for root from 66.77.88.99
+May 1 09:55 sshd Failed password for root from 66.77.88.99
