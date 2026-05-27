@@ -1,8 +1,0 @@
-IP Address,Attempts,Severity,Attack Type
-45.88.120.7,8,HIGH,Brute Force
-192.168.1.2,7,HIGH,Brute Force
-66.77.88.99,6,HIGH,Brute Force
-172.16.0.8,4,MEDIUM,Suspicious Activity
-88.12.10.4,4,MEDIUM,Suspicious Activity
-203.45.11.90,3,MEDIUM,Suspicious Activity
-10.0.0.25,2,LOW,Normal
